@@ -1,0 +1,20 @@
+{
+  "name": "codesnipes",
+  "version": "1.0.0",
+  "description": "A real-time, collaborative code editing platform focusing on high-concurrency synchronization using CRDTs.\r ## Core Tech Stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlosg3/CodeSnipes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karlosg3/CodeSnipes/issues"
+  },
+  "homepage": "https://github.com/karlosg3/CodeSnipes#readme"
+}
